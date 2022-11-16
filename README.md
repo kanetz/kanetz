@@ -1,6 +1,6 @@
 _WIP_
 
-`Agile` `DevOps` `Lean` `Engineering Productivity` `Team Cognitive Load` `Collaboration Tax`
+`Agile` `DevOps` `Lean` `Engineering Productivity` `Collaborative Cognitive Load` `Collaboration Tax`
 
 
 <!---
