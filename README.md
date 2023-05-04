@@ -1,6 +1,4 @@
-_WIP_
-
-`Agile` `DevOps` `Lean` `Engineering Productivity` `Collaborative Cognitive Load` `Collaboration Tax`
+`Agile and DevOps Practitioner` `System Thinker` `Continual Learner` `Servant Leader`
 
 
 <!---
